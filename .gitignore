@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+logs/
+build/
+dist/
+.zcode/
+*.lnk
+scan_cache.json
+profiles.json
+tools/selftest_expect_local.py
+tools/_tmp_*.py
